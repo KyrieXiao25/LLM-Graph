@@ -1,12 +1,112 @@
-src_id,tar_id
-2440,72908
-3231,63486
-10169,3231
-10169,63486
-17811,63486
-37483,2440
-56115,63486
-63486,83461
-72908,954315
-83461,954315
-144330,63486
+src_id,tar_id,w
+2440,72908,"
+paper1:
+title:Title: Quinlan, 1990 J.R. Quinlan. Learning logical definitions from relations. Machine Learning, First-order theory revision. In
+abstract:Abstract: We describe a ranked-model semantics for if-then rules admitting exceptions, which provides a coherent framework for many facets of evidential and causal reasoning. Rule priorities are automatically extracted form the knowledge base to facilitate the construction and retraction of plausible beliefs. To represent causation, the formalism incorporates the principle of Markov shielding which imposes a stratified set of independence constraints on rankings of interpretations. We show how this formalism resolves some classical problems associated with specificity, prediction and abduction, and how it offers a natural way of unifying belief revision, belief update, and reasoning about actions.
+label:Rule_Learning
+cites
+paper2:
+title:Title: Applications of a logical discovery engine
+abstract:Abstract: The clausal discovery engine claudien is presented. claudien discovers regularities in data and is a representative of the inductive logic programming paradigm. As such, it represents data and regularities by means of first order clausal theories. Because the search space of clausal theories is larger than that of attribute value representation, claudien also accepts as input a declarative specification of the language bias, which determines the set of syntactically well-formed regularities. Whereas other papers on claudien focuss on the semantics or logical problem specification of claudien, on the discovery algorithm, or the PAC-learning aspects, this paper wants to illustrate the power of the resulting technique. In order to achieve this aim, we show how claudien can be used to learn 1) integrity constraints in databases, 2) functional dependencies and determinations, 3) properties of sequences, 4) mixed quantitative and qualitative laws, 5) reverse engineering, and 6) classification rules.
+label:Rule_Learning
+"
+3231,63486,"
+paper1:
+title:Title: Irrelevant Features and the Subset Selection Problem
+abstract:Abstract: We address the problem of finding a subset of features that allows a supervised induction algorithm to induce small high-accuracy concepts. We examine notions of relevance and irrelevance, and show that the definitions used in the machine learning literature do not adequately partition the features into useful categories of relevance. We present definitions for irrelevance and for two degrees of relevance. These definitions improve our understanding of the behavior of previous subset selection algorithms, and help define the subset of features that should be sought. The features selected should depend not only on the features and the target concept, but also on the induction algorithm. We describe a method for feature subset selection using cross-validation that is applicable to any induction algorithm, and discuss experiments conducted with ID3 and C4.5 on artificial and real datasets.
+label:Theory
+cites
+paper2:
+title:Title: Evaluation and Selection of Biases in Machine Learning
+abstract:Abstract: In this introduction, we define the term bias as it is used in machine learning systems. We motivate the importance of automated methods for evaluating and selecting biases using a framework of bias selection as search in bias and meta-bias spaces. Recent research in the field of machine learning bias is summarized.
+label:Theory
+"
+10169,3231,"
+paper1:
+title:Title: Learning Boolean Concepts in the Presence of Many Irrelevant Features
+abstract:Abstract: In this paper, we address the problem of case-based learning in the presence of irrelevant features. We review previous work on attribute selection and present a new algorithm, Oblivion, that carries out greedy pruning of oblivious decision trees, which effectively store a set of abstract cases in memory. We hypothesize that this approach will efficiently identify relevant features even when they interact, as in parity concepts. We report experimental results on artificial domains that support this hypothesis, and experiments with natural domains that show improvement in some cases but not others. In closing, we discuss the implications of our experiments, consider additional work on irrelevant features, and outline some directions for future research.
+label:Theory
+cites
+paper2:
+title:Title: Irrelevant Features and the Subset Selection Problem
+abstract:Abstract: We address the problem of finding a subset of features that allows a supervised induction algorithm to induce small high-accuracy concepts. We examine notions of relevance and irrelevance, and show that the definitions used in the machine learning literature do not adequately partition the features into useful categories of relevance. We present definitions for irrelevance and for two degrees of relevance. These definitions improve our understanding of the behavior of previous subset selection algorithms, and help define the subset of features that should be sought. The features selected should depend not only on the features and the target concept, but also on the induction algorithm. We describe a method for feature subset selection using cross-validation that is applicable to any induction algorithm, and discuss experiments conducted with ID3 and C4.5 on artificial and real datasets.
+label:Theory
+"
+10169,63486,
+17811,63486,"
+paper1:
+title:Title: #1 Robust Feature Selection Algorithms
+abstract:Abstract: Selecting a set of features which is optimal for a given task is a problem which plays an important role in a wide variety of contexts including pattern recognition, adaptive control, and machine learning. Our experience with traditional feature selection algorithms in the domain of machine learning lead to an appreciation for their computational efficiency and a concern for their brittleness. This paper describes an alternate approach to feature selection which uses genetic algorithms as the primary search component. Results are presented which suggest that genetic algorithms can be used to increase the robustness of feature selection algorithms without a significant decrease in computational efficiency.
+label:Genetic_Algorithms
+cites
+paper2:
+title:Title: Evaluation and Selection of Biases in Machine Learning
+abstract:Abstract: In this introduction, we define the term bias as it is used in machine learning systems. We motivate the importance of automated methods for evaluating and selecting biases using a framework of bias selection as search in bias and meta-bias spaces. Recent research in the field of machine learning bias is summarized.
+label:Theory
+"
+37483,2440,"
+paper1:
+title:Title: Learning Approximate Control Rules Of High Utility
+abstract:Abstract: One of the difficult problems in the area of explanation based learning is the utility problem; learning too many rules of low utility can lead to swamping, or degradation of performance. This paper introduces two new techniques for improving the utility of learned rules. The first technique is to combine EBL with inductive learning techniques to learn a better set of control rules; the second technique is to use these inductive techniques to learn approximate control rules. The two techniques are synthesized in an algorithm called approximating abductive explanation based learning (AxA-EBL). AxA-EBL is shown to improve substantially over standard EBL in several domains.
+label:Case_Based
+cites
+paper2:
+title:Title: Quinlan, 1990 J.R. Quinlan. Learning logical definitions from relations. Machine Learning, First-order theory revision. In
+abstract:Abstract: We describe a ranked-model semantics for if-then rules admitting exceptions, which provides a coherent framework for many facets of evidential and causal reasoning. Rule priorities are automatically extracted form the knowledge base to facilitate the construction and retraction of plausible beliefs. To represent causation, the formalism incorporates the principle of Markov shielding which imposes a stratified set of independence constraints on rankings of interpretations. We show how this formalism resolves some classical problems associated with specificity, prediction and abduction, and how it offers a natural way of unifying belief revision, belief update, and reasoning about actions.
+label:Rule_Learning
+"
+56115,63486,"
+paper1:
+title:Title: Improving Tactical Plans with Genetic Algorithms
+abstract:Abstract:
+label:Genetic_Algorithms
+cites
+paper2:
+title:Title: Evaluation and Selection of Biases in Machine Learning
+abstract:Abstract: In this introduction, we define the term bias as it is used in machine learning systems. We motivate the importance of automated methods for evaluating and selecting biases using a framework of bias selection as search in bias and meta-bias spaces. Recent research in the field of machine learning bias is summarized.
+label:Theory
+"
+63486,83461,"
+paper1:
+title:Title: Evaluation and Selection of Biases in Machine Learning
+abstract:Abstract: In this introduction, we define the term bias as it is used in machine learning systems. We motivate the importance of automated methods for evaluating and selecting biases using a framework of bias selection as search in bias and meta-bias spaces. Recent research in the field of machine learning bias is summarized.
+label:Theory
+cites
+paper2:
+title:Title: Dlab: A Declarative Language Bias Formalism
+abstract:Abstract: We describe the principles and functionalities of Dlab (Declarative LAnguage Bias). Dlab can be used in inductive learning systems to define syntactically and traverse efficiently finite subspaces of first order clausal logic, be it a set of propositional formulae, association rules, Horn clauses, or full clauses. A Prolog implementation of Dlab is available by ftp access. Keywords: declarative language bias, concept learning, knowledge dis covery
+label:Rule_Learning
+"
+72908,954315,"
+paper1:
+title:Title: Applications of a logical discovery engine
+abstract:Abstract: The clausal discovery engine claudien is presented. claudien discovers regularities in data and is a representative of the inductive logic programming paradigm. As such, it represents data and regularities by means of first order clausal theories. Because the search space of clausal theories is larger than that of attribute value representation, claudien also accepts as input a declarative specification of the language bias, which determines the set of syntactically well-formed regularities. Whereas other papers on claudien focuss on the semantics or logical problem specification of claudien, on the discovery algorithm, or the PAC-learning aspects, this paper wants to illustrate the power of the resulting technique. In order to achieve this aim, we show how claudien can be used to learn 1) integrity constraints in databases, 2) functional dependencies and determinations, 3) properties of sequences, 4) mixed quantitative and qualitative laws, 5) reverse engineering, and 6) classification rules.
+label:Rule_Learning
+cites
+paper2:
+title:Title: Inductive Database Design
+abstract:Abstract: When designing a (deductive) database, the designer has to decide for each predicate (or relation) whether it should be defined extensionally or intensionally, and what the definition should look like. An intelligent system is presented to assist the designer in this task. It starts from an example database in which all predicates are defined extensionally. It then tries to compact the database by transforming extensionally defined predicates into intensionally defined ones. The intelligent system employs techniques from the area of inductive logic programming.
+label:Rule_Learning
+"
+83461,954315,"
+paper1:
+title:Title: Dlab: A Declarative Language Bias Formalism
+abstract:Abstract: We describe the principles and functionalities of Dlab (Declarative LAnguage Bias). Dlab can be used in inductive learning systems to define syntactically and traverse efficiently finite subspaces of first order clausal logic, be it a set of propositional formulae, association rules, Horn clauses, or full clauses. A Prolog implementation of Dlab is available by ftp access. Keywords: declarative language bias, concept learning, knowledge dis covery
+label:Rule_Learning
+cites
+paper2:
+title:Title: Inductive Database Design
+abstract:Abstract: When designing a (deductive) database, the designer has to decide for each predicate (or relation) whether it should be defined extensionally or intensionally, and what the definition should look like. An intelligent system is presented to assist the designer in this task. It starts from an example database in which all predicates are defined extensionally. It then tries to compact the database by transforming extensionally defined predicates into intensionally defined ones. The intelligent system employs techniques from the area of inductive logic programming.
+label:Rule_Learning
+"
+144330,63486,"
+paper1:
+title:Title: Utilizing Prior Concepts for Learning
+abstract:Abstract: The inductive learning problem consists of learning a concept given examples and non-examples of the concept. To perform this learning task, inductive learning algorithms bias their learning method. Here we discuss biasing the learning method to use previously learned concepts from the same domain. These learned concepts highlight useful information for other concepts in the domain. We describe a transference bias and present M-FOCL, a Horn clause relational learning algorithm, that utilizes this bias to learn multiple concepts. We provide preliminary empirical evaluation to show the effects of biasing previous information on noise-free and noisy data.
+label:Theory
+cites
+paper2:
+title:Title: Evaluation and Selection of Biases in Machine Learning
+abstract:Abstract: In this introduction, we define the term bias as it is used in machine learning systems. We motivate the importance of automated methods for evaluating and selecting biases using a framework of bias selection as search in bias and meta-bias spaces. Recent research in the field of machine learning bias is summarized.
+label:Theory
+"
