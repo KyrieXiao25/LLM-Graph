@@ -1,72 +1,59 @@
-src_id,tar_id,w
-2440,72908,"paper1:
-title:Title: Quinlan, 1990 J.R. Quinlan. Learning logical definitions from relations. Machine Learning, First-order theory revision. In
-label:Rule_Learning
-cites
-paper2:
-title:Title: Applications of a logical discovery engine
-label:Rule_Learning"
-3231,63486,"paper1:
-title:Title: Irrelevant Features and the Subset Selection Problem
-label:Theory
-cites
-paper2:
-title:Title: Evaluation and Selection of Biases in Machine Learning
-label:Theory"
-10169,3231,"paper1:
-title:Title: Learning Boolean Concepts in the Presence of Many Irrelevant Features
-label:Theory
-cites
-paper2:
-title:Title: Irrelevant Features and the Subset Selection Problem
-label:Theory"
+src_id,tar_id,m
+2440,72908,"
+The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" explores case-based learning amidst irrelevant features, proposing the Oblivion algorithm for feature identification, particularly in scenarios involving parity concepts. The target paper, ""Quinlan, 1990 J.R. Quinlan. Learning logical definitions from relations,"" introduces a ranked-model semantics for if-then rules, enhancing evidential and causal reasoning, resolving issues in specificity, prediction, and unifying belief revision and reasoning about actions. The target paper cites ""Applications of a logical discovery engine,"" relating to rule learning in the context of first-order theory revision.
+
+Keywords:
+Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
+Target paper: Ranked-model semantics, If-then rules, Evidential reasoning, Causal reasoning, Rule priorities, Belief revision, Abduction, Belief update, Reasoning about actions
+Cited paper: Rule learning, Logical discovery engine, First-order theory revision"
+3231,63486,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for case-based learning amidst irrelevant features, emphasizing feature identification, particularly in scenarios involving interacting concepts like parity. The target paper, ""Irrelevant Features and the Subset Selection Problem,"" tackles the challenge of identifying relevant feature subsets for high-accuracy concepts in supervised induction algorithms. It refines relevance concepts, proposes a selection method via cross-validation applicable to various algorithms, and conducts experiments with ID3 and C4.5 on both artificial and real datasets. The target paper cites ""Evaluation and Selection of Biases in Machine Learning,"" discussing theoretical aspects related to biases in machine learning.
+
+Keywords:
+Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
+Target paper: Subset selection, Supervised induction algorithms, Relevance, Irrelevance, Feature subset, Cross-validation, ID3, C4.5, Artificial datasets, Real datasets
+Cited paper: Biases in machine learning, Evaluation and selection, Theoretical aspects"
+10169,3231,
 10169,63486,
-17811,63486,"paper1:
-title:Title: #1 Robust Feature Selection Algorithms
-label:Genetic_Algorithms
-cites
-paper2:
-title:Title: Evaluation and Selection of Biases in Machine Learning
-label:Theory"
-37483,2440,"paper1:
-title:Title: Learning Approximate Control Rules Of High Utility
-label:Case_Based
-cites
-paper2:
-title:Title: Quinlan, 1990 J.R. Quinlan. Learning logical definitions from relations. Machine Learning, First-order theory revision. In
-label:Rule_Learning"
-56115,63486,"paper1:
-title:Title: Improving Tactical Plans with Genetic Algorithms
-label:Genetic_Algorithms
-cites
-paper2:
-title:Title: Evaluation and Selection of Biases in Machine Learning
-label:Theory"
-63486,83461,"paper1:
-title:Title: Evaluation and Selection of Biases in Machine Learning
-label:Theory
-cites
-paper2:
-title:Title: Dlab: A Declarative Language Bias Formalism
-label:Rule_Learning"
-72908,954315,"paper1:
-title:Title: Applications of a logical discovery engine
-label:Rule_Learning
-cites
-paper2:
-title:Title: Inductive Database Design
-label:Rule_Learning"
-83461,954315,"paper1:
-title:Title: Dlab: A Declarative Language Bias Formalism
-label:Rule_Learning
-cites
-paper2:
-title:Title: Inductive Database Design
-label:Rule_Learning"
-144330,63486,"paper1:
-title:Title: Utilizing Prior Concepts for Learning
-label:Theory
-cites
-paper2:
-title:Title: Evaluation and Selection of Biases in Machine Learning
-label:Theory"
+17811,63486,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for efficient feature identification in case-based learning amid irrelevant features, specifically focusing on scenarios involving interacting features such as parity concepts. It presents experimental findings and explores future research directions concerning irrelevant features. The target paper, ""#1 Robust Feature Selection Algorithms,"" emphasizes the significance of feature selection, highlighting traditional algorithms' brittleness and proposing genetic algorithms to enhance robustness while maintaining computational efficiency. It cites ""Evaluation and Selection of Biases in Machine Learning,"" a paper addressing theoretical aspects related to biases in machine learning.
+
+Keywords:
+Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
+Target paper: Feature selection, Genetic algorithms, Robustness, Computational efficiency, Pattern recognition, Adaptive control, Machine learning, Brittleness
+Cited paper: Biases in machine learning, Evaluation and selection, Theoretical aspects"
+37483,2440,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for efficient feature identification in case-based learning amid irrelevant features, especially focusing on scenarios involving interacting features like parity concepts. It reports experimental outcomes and discusses future research directions regarding irrelevant features. The target paper, ""Learning Approximate Control Rules Of High Utility,"" addresses the utility problem in explanation-based learning by combining EBL with inductive learning, introducing AxA-EBL for learning approximate control rules and showcasing significant performance improvements across various domains. It cites ""Quinlan, 1990 J.R. Quinlan. Learning logical definitions from relations,"" a paper related to rule learning and first-order theory revision.
+
+Keywords:
+Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
+Target paper: Explanation-based learning, Rule utility, Inductive learning, Approximate control rules, AxA-EBL algorithm, Utility problem, Performance improvement, Domains
+Cited paper: Rule learning, First-order theory revision, Logical definitions, Machine Learning, Quinlan 1990"
+56115,63486,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" focuses on case-based learning amid irrelevant features, introducing the Oblivion algorithm for efficient feature identification, especially in scenarios involving interacting features like parity concepts. It reports experimental results and discusses future research implications regarding irrelevant features. The abstract for the target paper, ""Improving Tactical Plans with Genetic Algorithms,"" isn't provided, making it challenging to summarize its content or relevance to the source paper. However, it cites ""Evaluation and Selection of Biases in Machine Learning,"" a theoretical paper related to biases in machine learning.
+
+Keywords:
+Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
+Target paper: Genetic algorithms, Tactical plans
+Cited paper: Biases in machine learning, Evaluation and selection, Theoretical aspects"
+63486,83461,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" focuses on case-based learning amidst irrelevant features, introducing the Oblivion algorithm for efficient feature identification, especially in scenarios involving interacting features like parity concepts. It discusses experimental outcomes in artificial domains, noting varied results in natural domains and outlining considerations for future research. The target paper, ""Evaluation and Selection of Biases in Machine Learning,"" defines biases in machine learning, emphasizing automated bias evaluation and selection methods using bias/meta-bias spaces, summarizing recent research in this domain. It cites ""Dlab: A Declarative Language Bias Formalism,"" a paper related to rule learning and bias formalism.
+
+Keywords:
+Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research
+Target paper: Machine learning biases, Bias evaluation, Bias selection, Meta-bias spaces, Automated methods, Research summary
+Cited paper: Rule learning, Bias formalism, Declarative language, Dlab"
+72908,954315,"
+The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for case-based learning with irrelevant features, emphasizing feature identification, especially in scenarios involving interacting features like parity concepts. It reports experimental outcomes and discusses future research directions concerning irrelevant features. The target paper, ""Applications of a logical discovery engine,"" presents claudien, a clausal discovery engine leveraging inductive logic programming to discover data regularities. It showcases claudien's applications in learning integrity constraints, functional dependencies, sequences, mixed laws, reverse engineering, and classification rules. It cites ""Inductive Database Design,"" a paper related to rule learning within the domain of inductive logic programming.
+
+Keywords:
+Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
+Target paper: Claudien, Logical discovery engine, Regularities in data, Inductive logic programming, Integrity constraints, Functional dependencies, Sequences, Mixed quantitative and qualitative laws, Reverse engineering, Classification rules
+Cited paper: Inductive Database Design, Rule learning, Inductive logic programming"
+83461,954315,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for case-based learning with irrelevant features, focusing on feature identification amidst interacting features like parity concepts. It presents experimental outcomes and outlines future research directions related to irrelevant features. The target paper, ""Dlab: A Declarative Language Bias Formalism,"" details Dlab's functionalities for defining and traversing finite subspaces of first-order clausal logic in inductive learning systems, emphasizing syntactical definition, Prolog implementation, and applications in concept learning and knowledge discovery. It cites ""Inductive Database Design,"" a paper related to rule learning within the domain of inductive logic programming.
+
+Keywords:
+Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
+Target paper: Dlab, Declarative language bias, Inductive learning systems, First-order clausal logic, Syntactical definition, Prolog implementation, Concept learning, Knowledge discovery
+Cited paper: Inductive Database Design, Rule learning, Inductive logic programming"
+144330,63486,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for case-based learning amidst irrelevant features, highlighting feature identification even in scenarios involving interacting features like parity concepts. It presents experimental findings and outlines future research directions on irrelevant features. The target paper, ""Utilizing Prior Concepts for Learning,"" delves into biasing learning methods to leverage previously learned concepts in the same domain, introducing a transference bias and M-FOCL, a Horn clause relational learning algorithm, to utilize this bias for learning multiple concepts. It offers preliminary empirical evaluation demonstrating the impact of biasing previous information on both noise-free and noisy data. It cites ""Evaluation and Selection of Biases in Machine Learning,"" a theoretical paper related to biases in machine learning.
+
+Keywords:
+Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
+Target paper: Inductive learning, Biasing learning methods, Prior concepts utilization, Transference bias, M-FOCL algorithm, Horn clause, Relational learning, Multiple concepts, Empirical evaluation, Noise-free data, Noisy data
+Cited paper: Biases in machine learning, Evaluation and selection, Theoretical aspects"
