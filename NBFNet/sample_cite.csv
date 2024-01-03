@@ -1,101 +1,17 @@
-src_id,tar_id,m_10169,m_144330
-2440,72908,"
-The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" explores case-based learning amidst irrelevant features, proposing the Oblivion algorithm for feature identification, particularly in scenarios involving parity concepts. The target paper, ""Quinlan, 1990 J.R. Quinlan. Learning logical definitions from relations,"" introduces a ranked-model semantics for if-then rules, enhancing evidential and causal reasoning, resolving issues in specificity, prediction, and unifying belief revision and reasoning about actions. The target paper cites ""Applications of a logical discovery engine,"" relating to rule learning in the context of first-order theory revision.
-
-Keywords:
-Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
-Target paper: Ranked-model semantics, If-then rules, Evidential reasoning, Causal reasoning, Rule priorities, Belief revision, Abduction, Belief update, Reasoning about actions
-Cited paper: Rule learning, Logical discovery engine, First-order theory revision","
-The source paper, ""Utilizing Prior Concepts for Learning,"" explores leveraging prior concepts in inductive learning via the M-FOCL algorithm for multi-concept learning, assessing its impact on noise-free and noisy data. The target paper, ""Quinlan, 1990 J.R. Quinlan. Learning logical definitions from relations,"" introduces ranked-model semantics for if-then rules, emphasizing causal and evidential reasoning alongside addressing issues in prediction, abduction, and belief revision. The target paper cites ""Applications of a logical discovery engine"" in the realm of rule learning.
-
-Keywords:
-Source Paper: Inductive Learning, Transference Bias, M-FOCL Algorithm, Multi-concept Learning, Empirical Evaluation
-Target Paper: Ranked-Model Semantics, If-Then Rules, Causal Reasoning, Evidential Reasoning, Prediction, Abduction, Belief Revision, Logical Discovery Engine, Rule Learning"
-3231,63486,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for case-based learning amidst irrelevant features, emphasizing feature identification, particularly in scenarios involving interacting concepts like parity. The target paper, ""Irrelevant Features and the Subset Selection Problem,"" tackles the challenge of identifying relevant feature subsets for high-accuracy concepts in supervised induction algorithms. It refines relevance concepts, proposes a selection method via cross-validation applicable to various algorithms, and conducts experiments with ID3 and C4.5 on both artificial and real datasets. The target paper cites ""Evaluation and Selection of Biases in Machine Learning,"" discussing theoretical aspects related to biases in machine learning.
-
-Keywords:
-Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
-Target paper: Subset selection, Supervised induction algorithms, Relevance, Irrelevance, Feature subset, Cross-validation, ID3, C4.5, Artificial datasets, Real datasets
-Cited paper: Biases in machine learning, Evaluation and selection, Theoretical aspects","
-The source paper, ""Utilizing Prior Concepts for Learning,"" explores leveraging prior knowledge through a transference bias via the M-FOCL algorithm, evaluating its impact on noisy and noise-free data. The target paper, ""Irrelevant Features and the Subset Selection Problem,"" focuses on defining relevance and irrelevance in feature subsets for supervised induction, proposing a cross-validation-based method for subset selection applicable to algorithms like ID3 and C4.5. The target paper cites ""Evaluation and Selection of Biases in Machine Learning"" in the domain of theoretical considerations related to bias assessment in machine learning.
-
-Keywords:
-Source Paper: Inductive Learning, Transference Bias, M-FOCL Algorithm, Empirical Evaluation, Noise-Free Data, Noisy Data
-Target Paper: Feature Subset Selection, Relevance, Irrelevance, Supervised Induction Algorithms, Definitions, Cross-Validation, ID3, C4.5, Bias Assessment, Theoretical Considerations"
-10169,3231,,"The source paper, ""Utilizing Prior Concepts for Learning,"" investigates leveraging past knowledge in inductive learning through a transference bias using the M-FOCL algorithm and empirical assessments on noisy and noise-free data. The target paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" focuses on case-based learning in the context of irrelevant features, introducing the Oblivion algorithm for decision tree pruning to identify relevant features, particularly in scenarios like parity concepts. It cites ""Irrelevant Features and the Subset Selection Problem"" in the domain of theoretical considerations related to handling irrelevant features.
-
-Keywords:
-Source Paper: Inductive Learning, Transference Bias, M-FOCL Algorithm, Empirical Evaluation, Noise-Free Data, Noisy Data
-Target Paper: Case-Based Learning, Irrelevant Features, Oblivion Algorithm, Greedy Pruning, Decision Trees, Relevant Features Identification, Parity Concepts, Theoretical Considerations"
-10169,63486,,"The source paper, ""Utilizing Prior Concepts for Learning,"" explores using prior knowledge in inductive learning through a transference bias and empirical assessments on noisy and noise-free data via the M-FOCL algorithm. The target paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for decision tree pruning amidst irrelevant features in case-based learning, especially regarding parity concepts, supported by experiments. It cites ""Evaluation and Selection of Biases in Machine Learning"" in the realm of theoretical considerations on bias assessment in machine learning.
-
-Keywords:
-Source Paper: Inductive Learning, Transference Bias, M-FOCL Algorithm, Empirical Evaluation, Noise-Free Data, Noisy Data
-Target Paper: Case-Based Learning, Irrelevant Features, Oblivion Algorithm, Greedy Pruning, Decision Trees, Relevant Features Identification, Parity Concepts, Experimental Results, Bias Assessment, Theoretical Considerations"
-17811,63486,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for efficient feature identification in case-based learning amid irrelevant features, specifically focusing on scenarios involving interacting features such as parity concepts. It presents experimental findings and explores future research directions concerning irrelevant features. The target paper, ""#1 Robust Feature Selection Algorithms,"" emphasizes the significance of feature selection, highlighting traditional algorithms' brittleness and proposing genetic algorithms to enhance robustness while maintaining computational efficiency. It cites ""Evaluation and Selection of Biases in Machine Learning,"" a paper addressing theoretical aspects related to biases in machine learning.
-
-Keywords:
-Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
-Target paper: Feature selection, Genetic algorithms, Robustness, Computational efficiency, Pattern recognition, Adaptive control, Machine learning, Brittleness
-Cited paper: Biases in machine learning, Evaluation and selection, Theoretical aspects","The source paper, ""Utilizing Prior Concepts for Learning,"" investigates leveraging prior knowledge via a transference bias in inductive learning, showcasing the M-FOCL algorithm and its initial impact through empirical evaluations on noisy and noise-free data. Conversely, the target paper, ""#1 Robust Feature Selection Algorithms,"" focuses on robust feature selection using genetic algorithms, emphasizing their role in enhancing selection methods without sacrificing computational efficiency in machine learning. It cites ""Evaluation and Selection of Biases in Machine Learning"" within theoretical considerations about bias assessment in machine learning.
-
-Keywords:
-Source Paper: Inductive Learning, Transference Bias, M-FOCL Algorithm, Empirical Evaluation, Noise-Free Data, Noisy Data
-Target Paper: Feature Selection, Genetic Algorithms, Robustness, Computational Efficiency, Pattern Recognition, Adaptive Control, Machine Learning, Bias Assessment, Theoretical Considerations"
-37483,2440,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for efficient feature identification in case-based learning amid irrelevant features, especially focusing on scenarios involving interacting features like parity concepts. It reports experimental outcomes and discusses future research directions regarding irrelevant features. The target paper, ""Learning Approximate Control Rules Of High Utility,"" addresses the utility problem in explanation-based learning by combining EBL with inductive learning, introducing AxA-EBL for learning approximate control rules and showcasing significant performance improvements across various domains. It cites ""Quinlan, 1990 J.R. Quinlan. Learning logical definitions from relations,"" a paper related to rule learning and first-order theory revision.
-
-Keywords:
-Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
-Target paper: Explanation-based learning, Rule utility, Inductive learning, Approximate control rules, AxA-EBL algorithm, Utility problem, Performance improvement, Domains
-Cited paper: Rule learning, First-order theory revision, Logical definitions, Machine Learning, Quinlan 1990","The source paper, ""Utilizing Prior Concepts for Learning,"" explores leveraging prior knowledge with a transference bias in inductive learning, using the M-FOCL algorithm and empirical evaluations on noisy and noise-free data. Conversely, the target paper, ""Learning Approximate Control Rules Of High Utility,"" addresses the utility problem in explanation-based learning, merging EBL with inductive techniques to enhance control rule sets via the AxA-EBL algorithm. It cites ""Quinlan, 1990 J.R. Quinlan. Learning logical definitions from relations"" within the domain of rule learning.
-
-Keywords:
-Source Paper: Inductive Learning, Transference Bias, M-FOCL Algorithm, Empirical Evaluation, Noise-Free Data, Noisy Data
-Target Paper: Explanation-Based Learning, Utility Problem, Inductive Learning Techniques, Control Rules, Approximate Control Rules, AxA-EBL Algorithm, Rule Learning, Rule Revision"
-56115,63486,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" focuses on case-based learning amid irrelevant features, introducing the Oblivion algorithm for efficient feature identification, especially in scenarios involving interacting features like parity concepts. It reports experimental results and discusses future research implications regarding irrelevant features. The abstract for the target paper, ""Improving Tactical Plans with Genetic Algorithms,"" isn't provided, making it challenging to summarize its content or relevance to the source paper. However, it cites ""Evaluation and Selection of Biases in Machine Learning,"" a theoretical paper related to biases in machine learning.
-
-Keywords:
-Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
-Target paper: Genetic algorithms, Tactical plans
-Cited paper: Biases in machine learning, Evaluation and selection, Theoretical aspects","The source paper, ""Utilizing Prior Concepts for Learning,"" explores leveraging prior knowledge in inductive learning through a transference bias using the M-FOCL algorithm and empirical evaluations on noise-free and noisy data. Unfortunately, without details from the target paper, it's challenging to provide a summary or keywords for its content. However, the target paper, ""Improving Tactical Plans with Genetic Algorithms,"" cites ""Evaluation and Selection of Biases in Machine Learning"" within the domain of theoretical considerations related to bias assessment in machine learning.
-
-Keywords:
-Source Paper: Inductive Learning, Transference Bias, M-FOCL Algorithm, Multiple Concepts, Empirical Evaluation
-Target Paper: Not enough information available to provide specific keywords or summary"
-63486,83461,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" focuses on case-based learning amidst irrelevant features, introducing the Oblivion algorithm for efficient feature identification, especially in scenarios involving interacting features like parity concepts. It discusses experimental outcomes in artificial domains, noting varied results in natural domains and outlining considerations for future research. The target paper, ""Evaluation and Selection of Biases in Machine Learning,"" defines biases in machine learning, emphasizing automated bias evaluation and selection methods using bias/meta-bias spaces, summarizing recent research in this domain. It cites ""Dlab: A Declarative Language Bias Formalism,"" a paper related to rule learning and bias formalism.
-
-Keywords:
-Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research
-Target paper: Machine learning biases, Bias evaluation, Bias selection, Meta-bias spaces, Automated methods, Research summary
-Cited paper: Rule learning, Bias formalism, Declarative language, Dlab","The source paper, ""Utilizing Prior Concepts for Learning,"" explores leveraging prior knowledge to bias inductive learning via the M-FOCL algorithm, focusing on transference bias and empirical evaluations on noise-free and noisy data. In contrast, the target paper, ""Evaluation and Selection of Biases in Machine Learning,"" addresses the concept of bias in ML systems, emphasizing the need for automated bias evaluation and selection methods, summarizing recent research in this domain. The target paper cites ""Dlab: A Declarative Language Bias Formalism"" within the context of rule learning and formalism related to bias.
-
-Keywords:
-Source Paper: Utilizing Prior Concepts, Inductive Learning, Transference Bias, M-FOCL Algorithm, Multiple Concepts, Empirical Evaluation
-Target Paper: Bias in Machine Learning, Automated Bias Evaluation, Bias Selection, Meta-bias Spaces, Rule Learning, Declarative Language Bias Formalism"
-72908,954315,"
-The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for case-based learning with irrelevant features, emphasizing feature identification, especially in scenarios involving interacting features like parity concepts. It reports experimental outcomes and discusses future research directions concerning irrelevant features. The target paper, ""Applications of a logical discovery engine,"" presents claudien, a clausal discovery engine leveraging inductive logic programming to discover data regularities. It showcases claudien's applications in learning integrity constraints, functional dependencies, sequences, mixed laws, reverse engineering, and classification rules. It cites ""Inductive Database Design,"" a paper related to rule learning within the domain of inductive logic programming.
-
-Keywords:
-Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
-Target paper: Claudien, Logical discovery engine, Regularities in data, Inductive logic programming, Integrity constraints, Functional dependencies, Sequences, Mixed quantitative and qualitative laws, Reverse engineering, Classification rules
-Cited paper: Inductive Database Design, Rule learning, Inductive logic programming","The source paper, ""Utilizing Prior Concepts for Learning,"" explores leveraging previously acquired knowledge with a transference bias in inductive learning via the M-FOCL algorithm, assessing its effects on noise-free and noisy data. In contrast, the target paper, ""Applications of a logical discovery engine,"" introduces claudien, a clausal discovery engine in the domain of inductive logic programming, showcasing its capabilities in discovering various regularities in data types like integrity constraints, functional dependencies, and classification rules. The target paper cites ""Inductive Database Design"" within the realm of rule learning related to the design aspects of inductive databases.
-
-Keywords:
-Source Paper: Inductive Learning, Transference Bias, M-FOCL Algorithm, Empirical Evaluation, Noise-Free Data, Noisy Data
-Target Paper: Claudien, Inductive Logic Programming, Regularity Discovery, Data Representation, Language Bias, Integrity Constraints, Functional Dependencies, Reverse Engineering, Classification Rules, Rule Learning, Inductive Database Design"
-83461,954315,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for case-based learning with irrelevant features, focusing on feature identification amidst interacting features like parity concepts. It presents experimental outcomes and outlines future research directions related to irrelevant features. The target paper, ""Dlab: A Declarative Language Bias Formalism,"" details Dlab's functionalities for defining and traversing finite subspaces of first-order clausal logic in inductive learning systems, emphasizing syntactical definition, Prolog implementation, and applications in concept learning and knowledge discovery. It cites ""Inductive Database Design,"" a paper related to rule learning within the domain of inductive logic programming.
-
-Keywords:
-Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
-Target paper: Dlab, Declarative language bias, Inductive learning systems, First-order clausal logic, Syntactical definition, Prolog implementation, Concept learning, Knowledge discovery
-Cited paper: Inductive Database Design, Rule learning, Inductive logic programming","The source paper, ""Utilizing Prior Concepts for Learning,"" explores leveraging prior knowledge through a transference bias in inductive learning using the M-FOCL algorithm and evaluating its effects on noise-free and noisy data. Conversely, the target paper, ""Dlab: A Declarative Language Bias Formalism,"" introduces Dlab, a framework focusing on declarative language bias in first-order clausal logic within inductive learning systems for concept learning. The target paper cites ""Inductive Database Design"" within the domain of rule learning, likely pertaining to aspects of designing databases for inductive systems.
-
-Keywords:
-Source Paper: Inductive Learning, Transference Bias, M-FOCL Algorithm, Empirical Evaluation, Noise-Free Data, Noisy Data
-Target Paper: Dlab, Declarative Language Bias, Inductive Learning Systems, First-order Clausal Logic, Concept Learning, Knowledge Discovery, Rule Learning, Inductive Database Design"
-144330,63486,"The source paper, ""Learning Boolean Concepts in the Presence of Many Irrelevant Features,"" introduces the Oblivion algorithm for case-based learning amidst irrelevant features, highlighting feature identification even in scenarios involving interacting features like parity concepts. It presents experimental findings and outlines future research directions on irrelevant features. The target paper, ""Utilizing Prior Concepts for Learning,"" delves into biasing learning methods to leverage previously learned concepts in the same domain, introducing a transference bias and M-FOCL, a Horn clause relational learning algorithm, to utilize this bias for learning multiple concepts. It offers preliminary empirical evaluation demonstrating the impact of biasing previous information on both noise-free and noisy data. It cites ""Evaluation and Selection of Biases in Machine Learning,"" a theoretical paper related to biases in machine learning.
-
-Keywords:
-Source paper: Case-based learning, Irrelevant features, Oblivion algorithm, Feature identification, Parity concepts, Experimental results, Future research implications
-Target paper: Inductive learning, Biasing learning methods, Prior concepts utilization, Transference bias, M-FOCL algorithm, Horn clause, Relational learning, Multiple concepts, Empirical evaluation, Noise-free data, Noisy data
-Cited paper: Biases in machine learning, Evaluation and selection, Theoretical aspects",
+src_id,tar_id
+35,141342
+35,210871
+35,273152
+35,35061
+32083,35061
+35061,210871
+44514,210871
+82920,273152
+82920,35
+141342,35061
+210871,273152
+210871,35
+210872,210871
+210872,273152
+210872,35
+273152,210871
