@@ -1,0 +1,10 @@
+Title/Source Citation: Explicitly mentioning another paper's title or source with contextual relevance suggests a citation relationship.
+Acknowledgment of Contribution: Referencing the work, findings, or methodology of another paper indicates a possible citation relationship.
+Shared Authors or Collaborators: Shared authors between papers often imply a citation relationship, especially if topics align.
+Similar Research Focus/Context: Mutual references between papers addressing similar topics or methodologies imply a citation relationship.
+Conceptual Alignment: Sharing similar methodologies or problem-solving approaches hints at a potential citation relationship.
+Methodological Reference: Describing methodologies or concepts from another paper implies a citation relationship.
+Acknowledgment of Findings/Results: Recognizing specific findings or theories from another paper signifies a potential citation relationship.
+Conceptual Integration/Relevance: Discussing integration or alignment of concepts/methodologies implies a citation relationship.
+Methodological Contribution/Enhancement: Presenting methodologies that complement or enhance concepts from another paper suggests a citation relationship.
+Technological Implementation/Utilization: Using or introducing technological methods from another paper hints at a citation relationship.

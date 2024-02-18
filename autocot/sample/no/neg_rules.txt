@@ -1,0 +1,10 @@
+Independent Topic Focus: Papers presenting distinct topics or concepts without alignment suggest no citation relationship.
+Distinct Methodological Focus: Papers exploring methodologies that don't intersect or align indicate no citation relationship.
+Disparate Research Areas: Exploration of unrelated topics or methodologies implies no citation relationship.
+Unrelated Subjects/Methodologies: Papers exploring unrelated subjects or methodologies suggest no citation relationship.
+Divergent Research Domains: Papers in entirely different research domains indicate no citation relationship.
+Lack of Thematic Alignment: Papers lacking thematic or conceptual alignment suggest no citation relationship.
+Disparate Research Focus: Papers in vastly different research fields without alignment imply no citation relationship.
+Divergent Focus Areas: Papers in distinctly different research domains lacking thematic intersection suggest no citation relationship.
+Divergent Methodologies/Approaches: Papers employing distinct methodologies without convergence indicate no citation relationship.
+Absence of Thematic Intersection: Papers lacking thematic or methodological overlap suggest no citation relationship.
